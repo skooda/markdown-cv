@@ -22,7 +22,7 @@ Reliable, team-minded and creative developer, with experience in a wide range of
 __Programming languages__
 - Loves **Python**
 - Enthusiastic about **Golang**
-- Can handle even **ECMAScript (JS), ReactJs, NodeJS, PHP, Bash, SQL, HTML, CSS**
+- Experienced in **PHP, ECMAScript (JS), ReactJs, NodeJS, Bash, SQL, HTML, CSS**
 - Wrote some lines in **Clojure, C#, Scala, Brainfuck :)**
 - Long time ago used **Pascal and C99**
 
@@ -46,7 +46,17 @@ __Other skills__
 - ... and lot more
 
 ## Currently
-`since 11/13`
+`since 05/20`
+__Application developer for a Swiss security company__
+> Company providing end-to-end encrypted email service
+
+- Developing desktop application in GoLang and C++ (QT framework)
+- Whole new experience in a completely different environment that is not eccomerce and web development
+
+> Golang, C++, Bash, Sentry, QT framework, ...
+
+## Previous Experience
+`11/13-05/20`
 __Web developer at Heureka.cz__
 > Biggest e-commerce company in Czech Republic, one of the most visited czech portals
 
@@ -55,9 +65,8 @@ __Web developer at Heureka.cz__
 - Previously member of several different backend and frontend teams
 - Founding member of the Prague development department
 
-> Python, Golang, Node.js, Bash, Kubernetes, Docker, StatsD, Sentry, ElasticSearch, Redis, Mysql, MongoDb, ...
+> PHP, Python, Golang, Node.js, Bash, Kubernetes, Docker, StatsD, Sentry, ElasticSearch, Redis, Mysql, MongoDb, ...
 
-## Previous Experience
 `03/13-11/13`
 __Freelance IT developer/consultant__
 - Providing IT services for various clients
@@ -132,6 +141,7 @@ __Technical support at Station.cz__
 Gymnázium Arabská 14, graduated from IT/Programming
 
 ## Interests
+- Doing crazy nonsense projects like https://32px.net
 - Home beer brewing
 - 3D printing
 - Tinker hardware (arduino/rpi)
